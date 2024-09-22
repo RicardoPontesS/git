@@ -3,3 +3,4 @@ Entendendo o HEAD.
 Linha modificada na branch master.
 Linha modificada na segunda branch.
 Concluindo um push.
+Concluindo mais um push.
